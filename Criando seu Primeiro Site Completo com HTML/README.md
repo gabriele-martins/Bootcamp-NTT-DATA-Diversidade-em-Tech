@@ -1,7 +1,6 @@
-# Trilha HTML - Dio.me
-## Módulo 02 - HTML I - Conceitos Básicos
+## Desafio: Criar um site completo em HTML
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+Este desafio teve como objetivo, criar um site "quase" completo, com tudo o que foi visto até o momento. Os temas que abordados foram:
 - Formulários
 - Estruturação e formatação de texto
 - Mídias
@@ -10,7 +9,7 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 Além de outros recursos falados nas aulas!
 
 ## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
+1. Criar um site de uma clínica médica (você escolhe a especialidade)
 2. Este site deve conter o seguinte menu de navegação:
     - Página Principal
     - Sobre a clínica
@@ -69,6 +68,3 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
-
-Bora pra cima!
